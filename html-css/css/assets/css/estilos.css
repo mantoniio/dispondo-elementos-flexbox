@@ -399,6 +399,7 @@ body {
 }
 
 .destaque-produtos--edicao {
-    grid-column: 2 / span 4;
+    grid-column: 2 / span 3;
     grid-row: 4;
+    width: 800px;
 }
