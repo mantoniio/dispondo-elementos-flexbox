@@ -397,3 +397,8 @@ body {
 .secao-produtos {
     grid-area: secao-produtos;
 }
+
+.destaque-produtos--edicao {
+    grid-column: 2 / span 4;
+    grid-row: 4;
+}
