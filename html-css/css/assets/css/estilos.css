@@ -372,30 +372,30 @@ body {
     .secao {
         grid-template-columns: repeat(4, 1fr);
     }
-}
 
-.destaque-video {
-    grid-area: destaque-video;
-}
-
-.videos-recentes {
-    grid-area: videos-recentes;
-}
-
-.secao-videos {
-    grid-area: secao-videos;
-}
-
-.produtos-recentes {
-    grid-area: produtos-recentes;
-}
-
-.destaques-produtos {
-    grid-area: destaque-produto;
-}
-
-.secao-produtos {
-    grid-area: secao-produtos;
+    .destaque-video {
+        grid-area: destaque-video;
+    }
+    
+    .videos-recentes {
+        grid-area: videos-recentes;
+    }
+    
+    .secao-videos {
+        grid-area: secao-videos;
+    }
+    
+    .produtos-recentes {
+        grid-area: produtos-recentes;
+    }
+    
+    .destaques-produtos {
+        grid-area: destaque-produto;
+    }
+    
+    .secao-produtos {
+        grid-area: secao-produtos;
+    }
 }
 
 .destaque-produtos--edicao {
